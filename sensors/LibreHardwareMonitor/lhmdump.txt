@@ -1,0 +1,164 @@
+open=ok hardware=4
+HW type=Cpu name=AMD Ryzen 7 9850X3D sensors=62
+   S Load | CPU Core #1 | 35.48
+   S Load | CPU Core #2 | 54.84
+   S Load | CPU Core #3 | 38.71
+   S Load | CPU Core #4 | 45.16
+   S Load | CPU Core #5 | 6.45
+   S Load | CPU Core #6 | 22.58
+   S Load | CPU Core #7 | 9.68
+   S Load | CPU Core #8 | 16.13
+   S Load | CPU Core #9 | 16.13
+   S Load | CPU Core #10 | 16.13
+   S Load | CPU Core #11 | 19.35
+   S Load | CPU Core #12 | 6.45
+   S Load | CPU Core #13 | 0.00
+   S Load | CPU Core #14 | 6.45
+   S Load | CPU Core #15 | 9.68
+   S Load | CPU Core #16 | 3.23
+   S Load | CPU Total | 19.15
+   S Load | CPU Core Max | 54.84
+   S Power | Package | 0.00
+   S Clock | Cores (Average) | 0.00
+   S Clock | Cores (Average Effective) | 0.00
+   S Clock | Core #1 | null
+   S Clock | Core #1 (Effective) | 0.00
+   S Factor | Core #1 | null
+   S Power | Core #1 (SMU) | 0.00
+   S Voltage | Core #1 VID | 1.55
+   S Clock | Core #2 | null
+   S Clock | Core #2 (Effective) | 0.00
+   S Factor | Core #2 | null
+   S Power | Core #2 (SMU) | 0.00
+   S Voltage | Core #2 VID | 1.55
+   S Clock | Core #3 | null
+   S Clock | Core #3 (Effective) | 0.00
+   S Factor | Core #3 | null
+   S Power | Core #3 (SMU) | 0.00
+   S Voltage | Core #3 VID | 1.55
+   S Clock | Core #4 | null
+   S Clock | Core #4 (Effective) | 0.00
+   S Factor | Core #4 | null
+   S Power | Core #4 (SMU) | 0.00
+   S Voltage | Core #4 VID | 1.55
+   S Clock | Core #5 | null
+   S Clock | Core #5 (Effective) | 0.00
+   S Factor | Core #5 | null
+   S Power | Core #5 (SMU) | 0.00
+   S Voltage | Core #5 VID | 1.55
+   S Clock | Core #6 | null
+   S Clock | Core #6 (Effective) | 0.00
+   S Factor | Core #6 | null
+   S Power | Core #6 (SMU) | 0.00
+   S Voltage | Core #6 VID | 1.55
+   S Clock | Core #7 | null
+   S Clock | Core #7 (Effective) | 0.00
+   S Factor | Core #7 | null
+   S Power | Core #7 (SMU) | 0.00
+   S Voltage | Core #7 VID | 1.55
+   S Clock | Core #8 | null
+   S Clock | Core #8 (Effective) | 0.00
+   S Factor | Core #8 | null
+   S Power | Core #8 (SMU) | 0.00
+   S Voltage | Core #8 VID | 1.55
+   S Temperature | Core (Tctl/Tdie) | 0.00
+HW type=GpuAmd name=AMD Radeon(TM) Graphics sensors=30
+   S SmallData | GPU Memory Total | 512.00
+   S Factor | Fullscreen FPS | -1.00
+   S SmallData | D3D Dedicated Memory Total | 485.76
+   S SmallData | D3D Dedicated Memory Free | 485.47
+   S SmallData | D3D Dedicated Memory Used | 0.29
+   S SmallData | D3D Shared Memory Used | 0.50
+   S SmallData | D3D Shared Memory Free | 15810.17
+   S SmallData | D3D Shared Memory Total | 15810.67
+   S Load | D3D 3D | 0.00
+   S Load | D3D Copy | 0.00
+   S Load | D3D Compute 0 | 0.00
+   S Load | D3D Compute 1 | 0.00
+   S Load | D3D Timer 0 | 0.00
+   S Load | D3D Security 1 | 0.00
+   S Load | D3D High Priority Compute | 0.00
+   S Load | D3D High Priority 3D | 0.00
+   S Load | D3D Video JPEG 0 | 0.00
+   S Load | D3D Video Decode 1 | 0.00
+   S Load | D3D Video Codec 0 | 0.00
+   S SmallData | GPU Memory Used | 0.00
+   S SmallData | GPU Memory Free | 512.00
+   S Clock | GPU Core | 600.00
+   S Clock | GPU SoC | 1200.00
+   S Clock | GPU Memory | 3000.00
+   S Temperature | GPU VR SoC | 45.00
+   S Voltage | GPU Core | 1.19
+   S Voltage | GPU SoC | 1.20
+   S Load | GPU Core | 0.00
+   S Power | GPU Core | 56.00
+   S Power | GPU SoC | 15.00
+HW type=GpuAmd name=AMD Radeon RX 9070 XT sensors=29
+   S SmallData | GPU Memory Total | 16304.00
+   S Factor | Fullscreen FPS | -1.00
+   S SmallData | D3D Dedicated Memory Total | 16191.47
+   S SmallData | D3D Dedicated Memory Free | 13424.46
+   S SmallData | D3D Dedicated Memory Used | 2767.00
+   S SmallData | D3D Shared Memory Used | 336.30
+   S SmallData | D3D Shared Memory Free | 15474.37
+   S SmallData | D3D Shared Memory Total | 15810.67
+   S Load | D3D 3D | 5.05
+   S Load | D3D Copy | 0.05
+   S Load | D3D Compute 0 | 0.00
+   S Load | D3D Copy | 0.00
+   S Load | D3D Timer 0 | 0.00
+   S Load | D3D Security 1 | 0.00
+   S Load | D3D Video JPEG 0 | 0.00
+   S Load | D3D Video Codec Engine | 0.00
+   S SmallData | GPU Memory Used | 2767.00
+   S SmallData | GPU Memory Free | 13537.00
+   S Power | GPU Package | 56.00
+   S Clock | GPU Core | 1552.00
+   S Clock | GPU Memory | 2505.00
+   S Temperature | GPU Core | 36.00
+   S Temperature | GPU Memory | 60.00
+   S Temperature | GPU Hot Spot | 38.00
+   S Fan | GPU Fan | 886.00
+   S Control | GPU Fan | 30.00
+   S Voltage | GPU Core | 0.70
+   S Load | GPU Core | 17.00
+   S Load | GPU Memory | 1.00
+HW type=GpuNvidia name=NVIDIA GeForce RTX 3070 sensors=38
+   S Temperature | GPU Core | 34.00
+   S Clock | GPU Core | 1275.00
+   S Clock | GPU Memory | 5001.00
+   S Fan | GPU Fan 1 | 0.00
+   S Fan | GPU Fan 2 | 1202.00
+   S Control | GPU Fan 1 | 36.00
+   S Control | GPU Fan 2 | 36.00
+   S Load | GPU Core | 19.00
+   S Load | GPU Memory Controller | 2.00
+   S Load | GPU Video Engine | 21.00
+   S Load | GPU Bus | 14.00
+   S Load | GPU Power | 12.71
+   S Load | GPU Board Power | 12.95
+   S Voltage | GPU Core Voltage | 0.71
+   S SmallData | D3D Dedicated Memory Used | 206.92
+   S SmallData | D3D Shared Memory Used | 152.86
+   S Load | D3D 3D | 0.78
+   S Load | D3D Overlay | 0.00
+   S Load | D3D Video Decode | 24.67
+   S Load | D3D Copy | 0.00
+   S Load | D3D Copy | 12.86
+   S Load | D3D Security | 0.00
+   S Load | D3D Video Encode | 0.00
+   S Load | D3D Optical Flow Accelerator 0 | 0.00
+   S Load | D3D VR | 0.00
+   S Load | D3D Copy | 0.00
+   S Load | D3D Copy | 0.00
+   S Load | D3D Copy | 0.00
+   S Load | D3D Copy | 0.00
+   S Load | D3D Security_1 | 0.00
+   S Temperature | GPU Hot Spot | 47.31
+   S SmallData | GPU Memory Total | 8192.00
+   S SmallData | GPU Memory Free | 7815.00
+   S SmallData | GPU Memory Used | 376.00
+   S Load | GPU Memory | 4.59
+   S Power | GPU Package | 32.17
+   S Throughput | GPU PCIe Rx | 6149120.00
+   S Throughput | GPU PCIe Tx | 1622050000.00

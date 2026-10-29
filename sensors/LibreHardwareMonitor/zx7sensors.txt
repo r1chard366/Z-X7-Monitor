@@ -1,0 +1,1 @@
+cpu=47.3;gpu0=45.0;use0=0;clk0=600;gpu1=60.0;use1=5;clk1=76;gpu2=55.7;use2=16;clk2=1785;names=AMD Radeon(TM) Graphics|AMD Radeon RX 9070 XT|NVIDIA GeForce RTX 3070;t=1793292078;adm=1
